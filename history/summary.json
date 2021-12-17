@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.whloud.com",
     "slug": "w-hloud",
     "status": "up",
-    "uptime": "50.37%",
-    "uptimeDay": "50.37%",
-    "uptimeWeek": "50.37%",
-    "uptimeMonth": "50.37%",
-    "uptimeYear": "50.37%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-12-17": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "WHloud 客服中心",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/kf.whloud.com",
     "slug": "w-hloud",
     "status": "up",
-    "uptime": "52.26%",
-    "uptimeDay": "52.26%",
-    "uptimeWeek": "52.26%",
-    "uptimeMonth": "52.26%",
-    "uptimeYear": "52.26%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-12-17": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
