@@ -1,12 +1,12 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: starleaves # Your GitHub organization or username, where this repository lives
+repo: whloud-status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: WHloud 控制面板
+    url: https://www.whloud.com
+  - name: WHloud 客服中心
+    url: https://kf.whloud.com
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
@@ -18,7 +18,7 @@ status-website:
   cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: WHloud Date 状态监控
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
